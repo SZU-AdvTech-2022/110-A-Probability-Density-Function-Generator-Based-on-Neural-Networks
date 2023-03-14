@@ -1,0 +1,8 @@
+@article{REPO-111,
+    author = "Chen, Chi-Hua and Song, Fangying and Hwang, Feng-Jang and Wu, Ling",
+    journal = "Physica A: Statistical Mechanics and Its Applications",
+    pages = "123344",
+    title = "{A Probability Density Function Generator Based on Neural Networks}",
+    volume = "541",
+    year = "2020"
+}
